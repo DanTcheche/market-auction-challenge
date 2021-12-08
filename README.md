@@ -16,3 +16,4 @@ This project uses [poetry](https://python-poetry.org/). as a dependency manager.
 
 ### 
 - To run tests run command `pytest` inside the poetry shell in the project directory.
+- To run the project run `python market_auction_challenge/main.py` from the project directory.
